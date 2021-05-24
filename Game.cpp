@@ -5,7 +5,7 @@ using namespace std;
 
 int main() {
   srand(time(NULL));
-  int comp = rand() % 3 + 1;
+  int comp = rand() % 5 + 1;
   int user = 0;
 
   cout << "=======================================\n";
